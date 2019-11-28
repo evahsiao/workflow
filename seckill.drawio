@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-28T08:12:57.187Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" etag="kgz_dpOpu4i4DiWJqdJU" version="12.3.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-28T09:50:21.366Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" etag="Ysq-o3kFBp3_50_vrsY9" version="12.3.2" type="github" pages="1">
   <diagram id="Y6t6le8Kwg2yqhybFrNQ" name="Page-1">
-    <mxGraphModel dx="951" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -112,7 +112,7 @@
         <mxCell id="3OWD66W-nWbykttsO6Vj-33" value="活动状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="280" width="90" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="3OWD66W-nWbykttsO6Vj-35" value="即将开始" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+        <mxCell id="3OWD66W-nWbykttsO6Vj-35" value="即将开始" style="html=1;whiteSpace=wrap;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="11" y="320" width="119" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="3OWD66W-nWbykttsO6Vj-36" value="" style="shape=mxgraph.bpmn.timer_start;perimeter=ellipsePerimeter;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;" vertex="1" parent="3OWD66W-nWbykttsO6Vj-35">
@@ -120,7 +120,7 @@
             <mxPoint x="-40" y="-15" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3OWD66W-nWbykttsO6Vj-37" value="正在进行" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+        <mxCell id="3OWD66W-nWbykttsO6Vj-37" value="正在进行" style="html=1;whiteSpace=wrap;rounded=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="11" y="405" width="120" height="55" as="geometry"/>
         </mxCell>
         <mxCell id="3OWD66W-nWbykttsO6Vj-38" value="" style="shape=mxgraph.bpmn.timer_start;perimeter=ellipsePerimeter;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;" vertex="1" parent="3OWD66W-nWbykttsO6Vj-37">
@@ -128,7 +128,7 @@
             <mxPoint x="-40" y="-15" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3OWD66W-nWbykttsO6Vj-39" value="结束" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="3OWD66W-nWbykttsO6Vj-39" value="结束" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="11" y="500" width="119" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="3OWD66W-nWbykttsO6Vj-40" value="" style="endArrow=open;endFill=1;endSize=12;html=1;strokeColor=#FF3333;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3OWD66W-nWbykttsO6Vj-35" target="3OWD66W-nWbykttsO6Vj-37">
@@ -146,7 +146,7 @@
         <mxCell id="3OWD66W-nWbykttsO6Vj-42" value="商品价格" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="280" width="90" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="3OWD66W-nWbykttsO6Vj-44" value="原价" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="3OWD66W-nWbykttsO6Vj-44" value="原价" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="180" y="320" width="120" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="3OWD66W-nWbykttsO6Vj-45" value="" style="endArrow=open;endFill=1;endSize=12;html=1;strokeColor=#FF3333;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3OWD66W-nWbykttsO6Vj-44" target="3OWD66W-nWbykttsO6Vj-46">
@@ -155,7 +155,7 @@
             <mxPoint x="390" y="370" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3OWD66W-nWbykttsO6Vj-46" value="秒杀价" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+        <mxCell id="3OWD66W-nWbykttsO6Vj-46" value="秒杀价" style="html=1;whiteSpace=wrap;rounded=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="180" y="400" width="120" height="55" as="geometry"/>
         </mxCell>
         <mxCell id="3OWD66W-nWbykttsO6Vj-47" value="" style="shape=mxgraph.bpmn.timer_start;perimeter=ellipsePerimeter;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;" vertex="1" parent="3OWD66W-nWbykttsO6Vj-46">
@@ -163,7 +163,7 @@
             <mxPoint x="-40" y="-15" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3OWD66W-nWbykttsO6Vj-48" value="结束" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="3OWD66W-nWbykttsO6Vj-48" value="原价" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="180" y="500" width="119" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="3OWD66W-nWbykttsO6Vj-49" value="" style="endArrow=open;endFill=1;endSize=12;html=1;strokeColor=#FF3333;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3OWD66W-nWbykttsO6Vj-46" target="3OWD66W-nWbykttsO6Vj-48">
@@ -174,6 +174,9 @@
         </mxCell>
         <mxCell id="3OWD66W-nWbykttsO6Vj-50" value="订单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
           <mxGeometry x="363" y="280" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="3OWD66W-nWbykttsO6Vj-51" value="按原有下单流程操作，秒杀不影响原有流程" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="328" y="320" width="122" height="90" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
