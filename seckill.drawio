@@ -1,15 +1,15 @@
-<mxfile host="www.draw.io" modified="2019-11-28T09:50:21.366Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" etag="Ysq-o3kFBp3_50_vrsY9" version="12.3.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-02T03:10:20.920Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" etag="8mbNfw0QHq0nuyqEqLU7" version="12.3.2" type="github" pages="1">
   <diagram id="Y6t6le8Kwg2yqhybFrNQ" name="Page-1">
-    <mxGraphModel dx="1426" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="951" dy="1706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="3OWD66W-nWbykttsO6Vj-3" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="531" y="40" width="30" height="30" as="geometry"/>
+          <mxGeometry x="530" y="-50" width="30" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="3OWD66W-nWbykttsO6Vj-4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="3OWD66W-nWbykttsO6Vj-3" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="546" y="130" as="targetPoint"/>
+            <mxPoint x="545" y="30" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="3OWD66W-nWbykttsO6Vj-5" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
@@ -177,6 +177,14 @@
         </mxCell>
         <mxCell id="3OWD66W-nWbykttsO6Vj-51" value="按原有下单流程操作，秒杀不影响原有流程" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="328" y="320" width="122" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="3OWD66W-nWbykttsO6Vj-52" value="商品详情" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="486" y="30" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3OWD66W-nWbykttsO6Vj-53" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="3OWD66W-nWbykttsO6Vj-52" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="546" y="130" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
